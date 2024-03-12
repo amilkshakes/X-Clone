@@ -2,7 +2,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    // Following the BEM convention
+
+    <div className="app">
       
     <h1>
     .... Under Construction ....   
