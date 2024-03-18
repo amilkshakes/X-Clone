@@ -1,0 +1,10 @@
+body
+{
+    --X-color: #50b7f5;
+    --X-background: rgba(0, 0, 0, 0.00);
+}
+
+.app
+{
+    display:flex;
+}

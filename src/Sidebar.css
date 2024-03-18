@@ -1,0 +1,14 @@
+.sidebar_post
+{
+    background-color: var(--X-color) !important;
+    border: none !important;
+    color: white !important;
+    font-weight: 900 !important;
+    /* inherit gets rid of the uppercase, or whatever mui is using */
+    text-transform: inherit !important; 
+    border-radius: 30px !important;
+    height: 50px !important;
+    margin-top: 20px !important;
+    
+
+}

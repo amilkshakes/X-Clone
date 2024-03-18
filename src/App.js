@@ -1,4 +1,7 @@
+// import { Feed } from '@mui/icons-material';
 import './App.css';
+import Sidebar from './Sidebar.js';
+import Feed from './Feed.js';
 
 function App() {
   return (
@@ -6,13 +9,15 @@ function App() {
 
     <div className="app">
       
-    <h1>
-    .... Under Construction ....   
-    </h1>  
+    {/* Sidebar */}
     
-    <h2>
-     X Clone    
-    </h2> 
+    <Sidebar/>
+
+    {/* Feed */}
+
+    <Feed/>
+
+    {/* Widgets */}
     
     </div>
   );
